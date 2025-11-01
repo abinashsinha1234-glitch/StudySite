@@ -1,0 +1,41 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #f4f6f9;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #4a6cf7;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+.materials {
+  max-width: 600px;
+  margin: 2rem auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: #4a6cf7;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
